@@ -16,6 +16,7 @@ function Club() {
             <p>
               We at programming club are a bunch of lazy people who love to find
               easy workaround and easy solutions to real life problems.
+              loremlorem lorem
             </p>
           </div>
         </div>
@@ -31,7 +32,7 @@ function Club() {
             <p>
               We don’t hunt for spiders at web club…seriously! Our members are
               mostly involved in development of both frontend and backend parts
-              of web based application.
+              of web based.
             </p>
           </div>
         </div>
@@ -62,7 +63,8 @@ function Club() {
             <br />
             <p>
               We love open source products and try our best to contribute to the
-              open source community in any way possible.
+              open source community in any way possible. lorem lorem lorem lorem
+              lorem lorem loremlorem
             </p>
           </div>
         </div>
