@@ -6,7 +6,7 @@ function Navbar() {
       <div className="navbar">
         <img src="https://hackncs.com/img/ncs-logo.svg" />
         <ul className="nav-links">
-          <li>Home</li>
+          <li className='current'>Home</li>
           <li>Projects</li>
           <li>Team</li>
           <li>Alumni</li>

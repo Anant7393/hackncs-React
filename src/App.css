@@ -53,6 +53,9 @@ body {
 }
 
 /*Navbar*/
+.current {
+  color: orange !important;
+}
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -231,4 +234,31 @@ body {
   margin-bottom: 4rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
+}
+
+/* projects */
+
+.projects h2 {
+  font-weight: 800;
+  font-size: 36px !important;
+  text-align: center;
+  margin: 2rem;
+  padding: 1rem;
+}
+
+.para {
+  text-align: center;
+  font-size: 30px;
+  color: grey;
+  line-height: 1.2cm;
+}
+
+/* Team */
+
+.teams h2 {
+  font-weight: 800;
+  font-size: 36px !important;
+  text-align: center;
+  margin: 2rem;
+  padding: 1rem;
 }
