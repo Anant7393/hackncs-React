@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hackncs-React/static/css/main.a2110fd4.chunk.css",
+    "main.js": "/hackncs-React/static/js/main.2ca41b9e.chunk.js",
+    "main.js.map": "/hackncs-React/static/js/main.2ca41b9e.chunk.js.map",
+    "runtime-main.js": "/hackncs-React/static/js/runtime-main.2c923a92.js",
+    "runtime-main.js.map": "/hackncs-React/static/js/runtime-main.2c923a92.js.map",
+    "static/js/2.1092eedd.chunk.js": "/hackncs-React/static/js/2.1092eedd.chunk.js",
+    "static/js/2.1092eedd.chunk.js.map": "/hackncs-React/static/js/2.1092eedd.chunk.js.map",
+    "static/js/3.283ab3f9.chunk.js": "/hackncs-React/static/js/3.283ab3f9.chunk.js",
+    "static/js/3.283ab3f9.chunk.js.map": "/hackncs-React/static/js/3.283ab3f9.chunk.js.map",
+    "index.html": "/hackncs-React/index.html",
+    "static/css/main.a2110fd4.chunk.css.map": "/hackncs-React/static/css/main.a2110fd4.chunk.css.map",
+    "static/js/2.1092eedd.chunk.js.LICENSE.txt": "/hackncs-React/static/js/2.1092eedd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hackncs-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c923a92.js",
+    "static/js/2.1092eedd.chunk.js",
+    "static/css/main.a2110fd4.chunk.css",
+    "static/js/main.2ca41b9e.chunk.js"
+  ]
+}
